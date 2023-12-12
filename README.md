@@ -1,4 +1,5 @@
 # Project Overview
+![image](https://github.com/hugomilesi/PowerBI_sales_insights/assets/71730507/53bf1dce-0bd2-4d35-bdde-953d28c4dfbb)
 
 This project aims to extract valuable insights from a dataset providing a simplified representation of sales transactions. The dataset encompasses various aspects of sales, including different products, customers, and markets over time. Each transaction is characterized by essential details such as the product sold, the involved customer, the market where the transaction occurred, the transaction date, the quantity of products sold, the sales amount, and the currency in which the sales amount is recorded.
 
